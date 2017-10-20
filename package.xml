@@ -10,7 +10,7 @@
   <email>slusarz@horde.org</email>
   <active>yes</active>
  </lead>
- <date>2017-10-17</date>
+ <date>2017-10-20</date>
  <version>
   <release>1.0.3</release>
   <api>1.0.0</api>
@@ -42,7 +42,6 @@
         <file name="AllTests.php" role="test" />
         <file name="bootstrap.php" role="test" />
         <file name="JsminTest.php" role="test" />
-        <file name="phpunit.xml" role="test" />
        </dir> <!-- /test/Horde/Text/Filter/Jsmin -->
       </dir> <!-- /test/Horde/Text/Filter -->
      </dir> <!-- /test/Horde/Text -->
@@ -79,7 +78,6 @@
    <install as="Horde/Text/Filter/Jsmin/AllTests.php" name="test/Horde/Text/Filter/Jsmin/AllTests.php" />
    <install as="Horde/Text/Filter/Jsmin/bootstrap.php" name="test/Horde/Text/Filter/Jsmin/bootstrap.php" />
    <install as="Horde/Text/Filter/Jsmin/JsminTest.php" name="test/Horde/Text/Filter/Jsmin/JsminTest.php" />
-   <install as="Horde/Text/Filter/Jsmin/phpunit.xml" name="test/Horde/Text/Filter/Jsmin/phpunit.xml" />
   </filelist>
  </phprelease>
  <changelog>
@@ -129,7 +127,7 @@
    <stability>
     <release>stable</release>
     <api>stable</api></stability>
-   <date>2017-10-17</date>
+   <date>2017-10-20</date>
    <license uri="">JSMin</license>
    <notes>
 * 
