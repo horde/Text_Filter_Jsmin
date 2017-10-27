@@ -1,5 +1,5 @@
 {
-    "name": "horde/horde-text-filter-jsmin",
+    "name": "horde/text-filter-jsmin",
     "description": "Horde Text Filter - Jsmin PHP Driver",
     "type": "library",
     "homepage": "https://pear.horde.org",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^5.3 || ^7",
-        "pear-pear.horde.org/Horde_Text_Filter": "^2.2@stable"
+        "pear-pear.horde.org/Horde_Text_Filter": "^2.2"
     },
     "replace": {
         "pear-pear.horde.org/Horde_Text_Filter_Jsmin": "1.*",
