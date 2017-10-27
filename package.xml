@@ -10,7 +10,7 @@
   <email>slusarz@horde.org</email>
   <active>yes</active>
  </lead>
- <date>2017-10-20</date>
+ <date>2017-10-27</date>
  <version>
   <release>1.0.3</release>
   <api>1.0.0</api>
@@ -24,6 +24,17 @@
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
+   <dir name="doc">
+    <dir name="Horde">
+     <dir name="Text">
+      <dir name="Filter">
+       <dir name="Jsmin">
+        <file name="CHANGES" role="doc" />
+       </dir> <!-- /doc/Horde/Text/Filter/Jsmin -->
+      </dir> <!-- /doc/Horde/Text/Filter -->
+     </dir> <!-- /doc/Horde/Text -->
+    </dir> <!-- /doc/Horde -->
+   </dir> <!-- /doc -->
    <dir name="lib">
     <dir name="Horde">
      <dir name="Text">
@@ -72,6 +83,7 @@
  </dependencies>
  <phprelease>
   <filelist>
+   <install as="CHANGES" name="doc/Horde/Text/Filter/Jsmin/CHANGES" />
    <install as="Horde/Text/Filter/Jsmin.php" name="lib/Horde/Text/Filter/Jsmin.php" />
    <install as="LICENSE" name="LICENSE" />
    <install as="Horde/Text/Filter/Jsmin/AllTests.php" name="test/Horde/Text/Filter/Jsmin/AllTests.php" />
@@ -126,7 +138,7 @@
    <stability>
     <release>stable</release>
     <api>stable</api></stability>
-   <date>2017-10-20</date>
+   <date>2017-10-27</date>
    <license uri="">JSMin</license>
    <notes>
    </notes>
