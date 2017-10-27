@@ -1,0 +1,44 @@
+---
+1.0.3:
+  api: 1.0.0
+  state:
+    release: stable
+    api: stable
+  date: 2017-10-20
+  license:
+    identifier: JSMin
+    uri:
+  notes:
+1.0.2:
+  api: 1.0.0
+  state:
+    release: stable
+    api: stable
+  date: 2016-02-02
+  license:
+    identifier: JSMin
+    uri:
+  notes: |
+    [jan] Mark PHP 7 as supported.
+1.0.1:
+  api: 1.0.0
+  state:
+    release: stable
+    api: stable
+  date: 2014-04-03
+  license:
+    identifier: JSMin
+    uri:
+  notes: |
+    [mms] Javascript minification has been deprecated and moved to the Horde_JavascriptMinify package.
+1.0.0:
+  api: 1.0.0
+  state:
+    release: stable
+    api: stable
+  date: 2013-11-19
+  license:
+    identifier: JSMin
+    uri:
+  notes: |
+    [mms] Initial release.
