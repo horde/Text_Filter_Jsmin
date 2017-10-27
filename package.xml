@@ -21,6 +21,7 @@
  </stability>
  <license>JSMin</license>
  <notes>
+* 
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
@@ -141,6 +142,7 @@
    <date>2017-10-27</date>
    <license uri="">JSMin</license>
    <notes>
+* 
    </notes>
   </release>
  </changelog>
