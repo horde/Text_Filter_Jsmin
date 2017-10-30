@@ -1,0 +1,25 @@
+----------
+v1.0.3-git
+----------
+
+
+------
+v1.0.2
+------
+
+[jan] Mark PHP 7 as supported.
+
+
+------
+v1.0.1
+------
+
+[mms] Javascript minification has been deprecated and moved to the
+      Horde_JavascriptMinify package.
+
+
+------
+v1.0.0
+------
+
+[mms] Initial release.
