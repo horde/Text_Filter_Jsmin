@@ -21,8 +21,8 @@
     ],
     "require": {
         "horde/horde-installer-plugin": "*",
-        "php": "^5.3 || ^7",
-        "horde/text_filter": "^2.2"
+        "php": "^7",
+        "horde/text_filter": "^3"
     },
     "suggest": {},
     "autoload": {

@@ -26,6 +26,6 @@ license:
   uri: ~
 dependencies:
   required:
-    php: ^5.3 || ^7
-    pear:
-      pear.horde.org/Horde_Text_Filter: ^2.2
+    php: ^7
+    composer:
+      horde/text_filter: ^3
