@@ -28,9 +28,6 @@
     "autoload": {
         "psr-0": {
             "Horde_Text_Filter_Jsmin": "lib/"
-        },
-        "psr-4": {
-            "Horde\\Text\\Filter\\Jsmin\\": "src/"
         }
     }
 }

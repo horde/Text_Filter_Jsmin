@@ -21,7 +21,7 @@
  </stability>
  <license>JSMin</license>
  <notes>
-* 
+* |+
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
@@ -84,10 +84,6 @@
   </filelist>
  </phprelease>
  <changelog>
- 
- 
- 
- 
   <release>
    <version>
     <release>1.0.0</release>
@@ -160,7 +156,7 @@
    <date>2021-02-24</date>
    <license uri="">JSMin</license>
    <notes>
-* 
+* |+
    </notes>
   </release>
  </changelog>
