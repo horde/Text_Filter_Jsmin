@@ -8,8 +8,12 @@
  * @package    Text_Filter_Jsmin
  * @subpackage UnitTests
  */
+namespace Horde\Text;
+use \Filter\Jsmin;
+use PHPUnit\Framework\TestCase;
+use \Horde_Text_Filter;
 
-class Horde_Text_Filter_Jsmin_JsminTest extends PHPUnit_Framework_TestCase
+class JsminTest extends TestCase
 {
     public function testJsmin()
     {
