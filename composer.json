@@ -1,4 +1,5 @@
 {
+    "minimum-stability": "dev",
     "name": "horde/text_filter_jsmin",
     "description": "Text filtering and conversion library - JSMin driver",
     "type": "library",
@@ -20,7 +21,7 @@
     ],
     "require": {
         "php": "^7",
-        "horde/text_filter": "^3"
+        "horde/text_filter": "^3 || dev-FRAMEWORK_6_0"
     },
     "suggest": {},
     "autoload": {
