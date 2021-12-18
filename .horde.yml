@@ -26,6 +26,6 @@ license:
   uri: ~
 dependencies:
   required:
-    php: ^7
+    php: ^7.4 || ^8
     composer:
       horde/text_filter: ^3
