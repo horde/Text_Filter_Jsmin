@@ -9,7 +9,7 @@
  * @subpackage UnitTests
  */
 
-class Horde_Text_Filter_Jsmin_JsminTest extends PHPUnit_Framework_TestCase
+class Horde_Text_Filter_Jsmin_JsminTest extends Horde_Test_Case
 {
     public function testJsmin()
     {
