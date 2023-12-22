@@ -14,18 +14,12 @@
     "version": "1.0.3",
     "time": "2017-11-14",
     "repositories": [
-        {
-            "type": "pear",
-            "url": "https://pear.horde.org"
-        }
     ],
     "require": {
         "php": "^5.3 || ^7",
-        "pear-pear.horde.org/Horde_Text_Filter": "^2.2"
+        "horde/text_filter": "^2.2"
     },
     "replace": {
-        "pear-pear.horde.org/Horde_Text_Filter_Jsmin": "1.*",
-        "pear-horde/Horde_Text_Filter_Jsmin": "1.*"
     },
     "autoload": {
         "psr-0": {
